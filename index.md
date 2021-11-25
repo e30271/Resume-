@@ -21,8 +21,9 @@
 
 ## Volunteer
 
-| Research Assistant | The Univeristy of Queensland |2021-Present |
-| Retail assistant | Yesterday Thrift Shop |2020-Present |
+| ------------------------------------- | ------------------------------------------- | ----- |
+| Research Assistant | The Univeristy of Queensland | 2021-Present |
+| Retail assistant | Yesterday Thrift Shop | 2020-Present |
 
 ## Skills
 
@@ -45,6 +46,9 @@ Language skills: English (Fluent, Academic Competency), Chinese (Native)
 
 ## Projects
 
+| ------------------------------------- | ------------------------------------------- | ----- |
+| Antioxidant Activities of Different Solvent Seagrape Extracts | Tajen University | 2013-2015 |
+| IDDSI flow tests for different oral solution | The University of Queensland | 2021-Present |
 
 
 
