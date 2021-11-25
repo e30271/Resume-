@@ -14,8 +14,8 @@
 ## Employment
 
 | ------------------------------------- | ------------------------------------------- | ----- |
-|Griffith University      |eResearch Analyst         |2016-Present|
-|QCIF Secondment|eResearch Analyst |2018-Present|
+| Undergraduate Hospital Pharmacist | Taipei Veterans General Hospital | 2014-2014 |
+| Hospital Pharmacist | Taipei City Hospital |2015-2019 |
 |Griffith University|Software Engineer |2010-2016|
 |Griffith University|Bioinformatician |2008-2010|
 
