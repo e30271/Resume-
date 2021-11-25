@@ -14,10 +14,11 @@
 ## Employment
 
 | ------------------------------------- | ------------------------------------------- | ----- |
+| Teaching Assistant | Tajen University | 2012-2013 |
+| Research Assistant | Tajen University | 2013-2015 |
 | Undergraduate Hospital Pharmacist | Taipei Veterans General Hospital | 2014-2014 |
 | Hospital Pharmacist | Taipei City Hospital |2015-2019 |
-|Griffith University|Software Engineer |2010-2016|
-|Griffith University|Bioinformatician |2008-2010|
+
 
 ## Skills
 
